@@ -1,25 +1,27 @@
 #img{
-   text-align:right;
-}
+    text-align:right;
+ }
+ 
+ .ponto{
+    text-align: right;
+    position: relative;
+    float: right;
+ }
+ 
+ .mari{
+    text-align: center;
+    position: relative;
+    float: center;
+ }
+ 
+ #play{
+    text-align: right;
+    position: relative;
+    float: right;
+ }
 
-.ponto{
-   text-align: right;
-   position: relative;
-   float: right;
-}
+   
 
-.mari{
-   text-align: center;
-   position: relative;
-   float: center;
-}
-
-#play{
-   text-align: right;
-   position: relative;
-   float: right;
-}
-
-audio{
-   display: none;
+#pausar{
+display: none
 }

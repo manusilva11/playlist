@@ -15,13 +15,21 @@
  }
  
  #play{
-    text-align: right;
+    text-align: center;
     position: relative;
-    float: right;
+    float: center;
  }
 
    
 
 #pausar{
 display: none
+}
+
+body{
+   background-color: purple ;
+}
+
+p, h3, h1{
+   color: white;
 }
